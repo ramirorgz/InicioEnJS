@@ -81,12 +81,7 @@ function productoNuevo() {
   return precioFinal;
 } */
 
-/* escribir una funcion que acepte un numero y que me diga al final si es un numero primo o no.
-
-un n primo es un primo solo si se divide por si mismo y por 1
-
-1 no es primo!
-*/ /* 
+/* 
 function nombreUtil(precio) {
   //snetencias
   let precioDescuento = precio;
